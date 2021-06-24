@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Coming Soon\n"
+"POT-Creation-Date: 2017-02-20 01:08+0600\n"
+"PO-Revision-Date: 2017-02-20 01:08+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin.php:50
+msgid "Basic Settings"
+msgstr ""
+
+#: includes/admin.php:67
+msgid "Quick Notice"
+msgstr ""
+
+#: includes/admin.php:68
+msgid ""
+"It will display at the middle of the page. You can use {span} for different "
+"color."
+msgstr ""
+
+#: includes/admin.php:74
+msgid "Background Image"
+msgstr ""
+
+#: includes/admin.php:75
+msgid "Upload if you don't like the default one"
+msgstr ""
+
+#: includes/admin.php:81
+msgid "Facebook"
+msgstr ""
+
+#: includes/admin.php:82
+msgid "https://facebook.com/example"
+msgstr ""
+
+#: includes/admin.php:87
+msgid "Twitter"
+msgstr ""
+
+#: includes/admin.php:88
+msgid "https://twitter.com/example"
+msgstr ""
+
+#: includes/admin.php:93
+msgid "YouTube"
+msgstr ""
+
+#: includes/admin.php:94
+msgid "https://youtube.com/example"
+msgstr ""
+
+#: includes/class.settings-api.php:347
+msgid "Choose File"
+msgstr ""
+
+#: quick-coming-soon.php:7
+msgid "Coming Soon"
+msgstr ""
