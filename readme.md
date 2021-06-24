@@ -6,7 +6,11 @@
 **Tested up to:** 5.7.2  
 **Stable tag:** 5.0
 
+#### Front-end
+
 ![header](https://raw.githubusercontent.com/emtiaz51921/quick-coming-soon/master/screenshot-1.png)
+
+#### Back-end
 
 ![header](https://raw.githubusercontent.com/emtiaz51921/quick-coming-soon/master/screenshot-2.png)
 
@@ -16,12 +20,12 @@ Quick coming soon is only for those who need to put a simple note on the site im
 
 ## Main Features
 
--Lightweight
--Easy installation.
--Can put simple note
--Responsive
--Background image change
--Social Button (Facebook,Twitter,Youtube)
+- Lightweight
+- Easy installation.
+- Can put simple note
+- Responsive
+- Background image change
+- Social Button (Facebook,Twitter,Youtube)
 
 ## Contributing All
 
